@@ -1,0 +1,6 @@
+This project is developed based on two projects assignment in DSC80 in UCSD.
+
+Project 1 covered pandas using, assesment of null values, data cleaning, and hypothesis test.
+Project 2 covered sklearn models, pipeline, feature engineering, etc.
+Currently working on (till 1/25/2020) the final project snapchat political ads which will combine results from
+both project 1 and 2 and dig deeper.
